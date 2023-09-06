@@ -18,5 +18,12 @@ Each of these folder above contains subfolders AARN.xaa.sdf.gz, ABRN.xaa.sdf.gz 
 
 The subfolders will be unzip using python script 
 
-Create a python file 'unzip.py' 
+Create a python script 'unzip.py' 
 
+The python script will unzip the zip files in the subdirectory.
+
+# Split the unzip files into individual zinc compounds
+
+To split the unzip files into their individual zinc compounds is important so that each compounds would be identified using their 'ZINC ID'
+
+Create a python script 'split.py' file 
