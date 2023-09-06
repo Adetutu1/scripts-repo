@@ -9,3 +9,14 @@ create a bash script 'fetch.sh' file using nano on cluster or text editor in you
 chmod u+x the 'fetch.sh' file to be executable and then run the sh file.
 
 If runing the job on the cluster you may run the script using pbs file.
+
+# Unzip the fetched folders 
+
+Once the file has been upacked unto their respective folders CA, CB, CC, CD,..., DA, DB,DC, DD,...EA, EB, EC, ED, ..., 
+
+Each of these folder above contains subfolders AARN.xaa.sdf.gz, ABRN.xaa.sdf.gz ...
+
+The subfolders will be unzip using python script 
+
+Create a python file 'unzip.py' 
+
