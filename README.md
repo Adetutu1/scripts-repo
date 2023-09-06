@@ -39,3 +39,10 @@ To do this, create a python script 'merge.py'
 The compounds in the single folder could be split into batches of 5000, 10000, 20000 depending on your preference.
 
 To do this, create a python script 'batches.py' 
+
+
+# Concatenate the compounds 
+
+Incase you prefer to concatenate the merge compounds i.e compounds in the single folder rather than split the compounds into batches of 10,000. 
+
+Concatenating the compounds into a single folder (e.g ligands.sdf) is easier to use for ligPrep in Maestro or for filtering based on physico-chemical properties or molecualar descriptors using scripts.
