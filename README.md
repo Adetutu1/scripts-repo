@@ -27,3 +27,15 @@ The python script will unzip the zip files in the subdirectory.
 To split the unzip files into their individual zinc compounds is important so that each compounds would be identified using their 'ZINC ID'
 
 Create a python script 'split.py' file 
+
+# Merge the split zinc compounds
+
+It would be best to merge all the zinc compounds in the different folders to a single folder for easy of accessibility while the compounds in the different folders still remain.
+
+To do this, create a python script 'merge.py'
+
+# Split the merge compounds in batches
+
+The compounds in the single folder could be split into batches of 5000, 10000, 20000 depending on your preference.
+
+To do this, create a python script 'batches.py' 
