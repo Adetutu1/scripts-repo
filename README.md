@@ -46,7 +46,7 @@ To do this, create a python script 'batches.py'
 Incase you prefer to concatenate the merge compounds i.e compounds in the single folder rather than split the compounds into batches of 10,000. 
 
 <<<<<<< HEAD
-Concatenating the compounds into a single folder (e.g ligands.sdf) is easier to use for ligPrep in Maestro or for filtering based on physico-chemical properties or molecualar descriptors using scripts.gig
+Concatenating the compounds into a single folder (e.g ligands.sdf) is easier to use for ligPrep in Maestro or for filtering based on physico-chemical properties or molecualar descriptors depending on what you are working on.
 =======
 Concatenating the compounds into a single folder (e.g ligands.sdf) is easier to use for ligPrep in Maestro or for filtering based on physico-chemical properties or molecualar descriptors using scripts.
 
