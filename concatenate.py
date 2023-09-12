@@ -1,4 +1,4 @@
-# concatenate sdf compounds in a single folder into a single sdf file (.sdf)
+# concatenate sdf compounds in a single folderinto a single sdf file (.sdf)
 
 #script to concatenate sdf files in a single folder into a single sdf file
 import os

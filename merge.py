@@ -1,4 +1,4 @@
-#script to copy sdf files from several folders to a single folder
+#script to copy sdf files from several folders to a single folderls
 
 import os
 import shutil
